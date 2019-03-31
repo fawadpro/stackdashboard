@@ -1,0 +1,30 @@
+//language
+export const CHANGE_LOCALE = 'CHANGE_LOCALE'
+
+//Orgnization
+export const CREATE_ORGANIZATION = 'CREATE_ORGANIZATION'
+export const GET_PARTY_ROLE_TYPES = 'GET_PARTY_ROLE_TYPES'
+export const PARTY_ROLE_TYPE_LOADING = 'PARTY_ROLE_TYPE_LOADING'
+
+//Countries
+export const GET_COUNTRIES = 'GET_COUNTRIES'
+export const COUNTRIES_LOADING = 'COUNTRIES_LOADING'
+
+//States
+export const GET_STATES = 'GET_STATES'
+export const STATES_LOADING = 'STATES_LOADING'
+
+//Parties
+export const GET_PARTIES = 'GET_PARTIES'
+export const PARTIES_LOADING = 'PARTIES_LOADING'
+
+//Add Contact
+export const ADD_CONTACT_LOADING = 'ADD_CONTACT_LOADING'
+export const ADD_CONTACT_SUCCESS = 'ADD_CONTACT_SUCCESS'
+export const ADD_CONTACT_FAIL = 'ADD_CONTACT_FAIL'
+
+//Notification Messages
+export const FORM_NOTIFICATION = 'FORM_NOTIFICATION'
+//Notification Messages
+export const SEARCH_DATA = 'SEARCH_DATA'
+export const SEARCH_LOADING = 'SEARCH_LOADING'
